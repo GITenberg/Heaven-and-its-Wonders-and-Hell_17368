@@ -1,0 +1,43 @@
+_repo: Heaven-and-its-Wonders-and-Hell_17368
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ager, John C. (John Curtis)
+    aliases:
+    - Ager, John Curtis
+    - Ager, J. C. (John Curtis)
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '6833'
+    url: http://www.gutenberg.org/2009/agents/6833
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+description: Presents the full text of "Heaven and Its Wonders and Hell from Things
+  Seen and Heard" by Emanuel Swedenborg, originally published in 1758 by the Swedenborg
+  Foundation. Includes an abstract, the title page, and an index by paragraph numbers.
+  Examines the idea of the afterlife and the concepts of God, Heaven and Hell, angels,
+  spirits, and devils. Links to the Foundation's home page.
+gutenberg_issued: '2005-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Heaven -- Christianity'
+- !lcsh 'Future life -- Christianity -- Early work to 1800'
+- !lcsh 'Hell -- Christianity'
+title: Heaven and its Wonders and Hell
+url: http://www.gutenberg.org/ebooks/17368
